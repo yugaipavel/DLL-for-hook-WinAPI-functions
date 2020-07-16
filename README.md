@@ -4,7 +4,7 @@ Dll MITRE ATT&CK is an executable DLL that is injected into launched processes t
 
 Detours is a library for instrumentation of arbitrary functions on Win32 Windows-compatible processors. Detours intercepts Win32 functions by rewriting in-memory code for target functions. The Detours package also contains utilities for attaching arbitrary DLLs and data segments (called payloads) to any Win32 binary.
 
-The following MITER ATT & CK attack techniques were taken as an example:
+The following MITER ATT&CK attack techniques were taken as an example:
 
 • Screensaver,
 
